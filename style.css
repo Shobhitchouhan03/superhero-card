@@ -91,3 +91,77 @@ body {
     color: black;
     margin-top: 15px;
 }
+/* Large screens (1280px tak) */
+@media (max-width: 1280px) {
+
+    .wrapper {
+        padding: 20px;
+    }
+
+    .search-box {
+        margin-left: 0;
+        justify-content: center;
+    }
+
+    .search-box input {
+        width: 220px;
+    }
+
+    .hero-img {
+        width: 80%;
+    }
+}
+/* Tablet ke liye */
+@media (max-width: 768px) {
+
+    .search-box {
+        margin-left: 0;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .search-box input {
+        width: 180px;
+        font-size: 14px;
+    }
+
+    .search-box button {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
+    .hero-img {
+        width: 100%;
+    }
+
+    .wrapper {
+        padding: 20px;
+    }
+}
+
+
+/* Mobile ke liye */
+@media (max-width: 480px) {
+
+    .search-box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .search-box input {
+        width: 100%;
+    }
+
+    .search-box button {
+        width: 100%;
+    }
+
+    .hero-img {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .result {
+        font-size: 14px;
+    }
+}

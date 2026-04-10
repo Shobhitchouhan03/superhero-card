@@ -1,0 +1,64 @@
+{
+    "superheroes" : [
+    {
+    "name": "Spider-Man",
+    "image": "https://c4.wallpaperflare.com/wallpaper/997/794/382/miles-morales-spiderman-miles-morales-spider-man-peter-parker-spider-gwen-hd-wallpaper-preview.jpg",
+    "superpower": "Wall-crawling and spider-sense",
+    "abilities": ["Super agility", "Enhanced strength", "Web-shooting", "Reflexes"]
+    },
+    {
+    "name": "Iron Man",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/030/653/613/small_2x/robot-electronic-access-authentication-system-free-photo.jpg",
+    "superpower": "Powered armor suit",
+    "abilities": ["Flight", "Energy blasts", "Advanced AI", "Genius intellect"]
+    },
+    {
+    "name": "Wonder Woman",
+    "image": "https://imgs.search.brave.com/GcfucRpSxeYRiLbPtAtr0T7iZpyyQrZ0uqEiNSgbA_o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvd29u/ZGVyLXdvbWFuLXBp/Y3R1cmVzLWN6aXdv/cG13em55b200ZG0u/anBn",
+    "superpower": "Amazonian strength",
+    "abilities": ["Super strength", "Combat skills", "Lasso of Truth", "Durability"]
+    },
+    {
+    "name": "Batman",
+    "image": "https://imgs.search.brave.com/AfsHQy5UcHMW0qq99krdIIqEu3rsmFZK3ZF6kInwME0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvaGln/aC1yZXNvbHV0aW9u/LWdhbWluZy1vbTd0/bW1jaTZjd2J4amJ1/LmpwZw",
+    "superpower": "Peak human intelligence",
+    "abilities": ["Martial arts", "Stealth", "Detective skills", "Advanced gadgets"]
+    },
+    {
+    "name": "Superman",
+    "image": "https://imgs.search.brave.com/XpsEd536LdmGEsDZ2BtZwFtKAGJhvQruzmv_5m3gvzU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly80a3dh/bGxwYXBlcnMuY29t/L2ltYWdlcy93YWxs/cy90aHVtYnMvMjIy/MDMuanBn",
+    "superpower": "Kryptonian physiology",
+    "abilities": ["Flight", "Heat vision", "Super strength", "X-ray vision"]
+    },
+    {
+    "name": "Flash",
+    "image": "https://imgs.search.brave.com/ZKyCL7ef7WDJ7PD8so0JZ3wECFQdMhcWtvW-IX5hqnM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZGMuY29tLzIw/MjMtMDIvZmxhc2hf/aHViXzR1cF9DaGFy/X0ZsYXNoXzF4MS5q/cGc_dz05MDA",
+    "superpower": "Super speed",
+    "abilities": ["Time travel", "Speed force", "Quick healing", "Phasing"]
+    },
+    {
+    "name": "Black Panther",
+    "image": "https://imgs.search.brave.com/-wbwaJHL5rkWp12GnGv2mxmknnh_IbCRLS2Dvu_Yj_g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2VjLzc4/L2Y5L2VjNzhmOTJh/MzIxZGNmZGQ1ZjZm/ZDQ2MTAyMzk3OTUw/LmpwZw",
+    "superpower": "Enhanced senses and strength",
+    "abilities": ["Vibranium suit", "Martial arts", "Agility", "Tactical genius"]
+    },
+    {
+    "name": "Captain Marvel",
+    "image": "https://imgs.search.brave.com/D6uTOVm2fZe0qiZez3hzJ2BWKWn4xabqDvB31XDNdZA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bWFydmVsLmNvbS9j/b250ZW50LzF4LzAw/OGNtdl9vbnNfY3Jk/XzA1LmpwZw",
+    "superpower": "Cosmic energy manipulation",
+    "abilities": ["Flight", "Energy blasts", "Super strength", "Durability"]
+    },
+    {
+    "name": "Thor",
+    "image": "https://imgs.search.brave.com/S5aemFa4mjE2g8mk17f_wf-9PJEuzzt3eSCkagLTGAc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bWFydmVsLmNvbS9j/b250ZW50LzF4LzAw/NHRob19vbnNfY3Jk/XzA0LmpwZw",
+    "superpower": "God of Thunder",
+    "abilities": ["Lightning control", "Super strength", "Flight with Mjolnir", "Longevity"]
+    },
+    {
+    "name": "Doctor Strange",
+    "image": "https://imgs.search.brave.com/VfiOH0QxQdD9TlIH5pCxudGfiUlDDmEStjlUHAlqy5w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZG9j/dG9yLXN0cmFuZ2Ut/bWlycm9yLWRpbWVu/c2lvbi1laDl2YjV5/aGJsOTVhZHh0Lmpw/Zw",
+    "superpower": "Mystic arts",
+    "abilities": ["Spell casting", "Teleportation", "Time manipulation", "Astral projection"]
+    }
+    ]
+}
